@@ -23,8 +23,6 @@ This portfolio represents my journey as a developer and showcases projects, tech
 
 ### Featured Areas
 
-* Full Stack Development
-* Artificial Intelligence & Machine Learning
 * Software Engineering
 * UI/UX Focused Applications
 * Open Source Exploration
@@ -104,8 +102,6 @@ An evolving student productivity ecosystem that helps learners manage courses, t
 * Git
 * GitHub
 * VS Code
-* Postman
-* Figma
 
 ---
 
