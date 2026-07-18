@@ -17,7 +17,7 @@ My focus is not just writing code—but creating solutions that solve real-world
 
 ---
 
-## 🚀 What You'll Find Here
+## 🚀 What You'll Find  Here
 
 This portfolio represents my journey as a developer and showcases projects, technologies, and experiences that reflect my growth in software engineering.
 
