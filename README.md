@@ -1,4 +1,3 @@
-
 # ⚡ ARISTOTLE
 
 ### Software Engineer • Full Stack Developer • AI Enthusiast
@@ -65,6 +64,7 @@ A modern agency-style web experience demonstrating responsive design, performanc
 * Clean UI Architecture
 * Modern Frontend Practices
 
+
 ---
 
 ## 🎓 Nova Learn
@@ -85,6 +85,7 @@ An evolving student productivity ecosystem that helps learners manage courses, t
 * HTML5
 * CSS3
 
+
 ### Backend Development
 
 * Node.js
@@ -102,6 +103,7 @@ An evolving student productivity ecosystem that helps learners manage courses, t
 * Git
 * GitHub
 * VS Code
+
 
 ---
 
