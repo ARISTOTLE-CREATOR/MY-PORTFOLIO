@@ -144,7 +144,7 @@ Narayana High School
 
 # 🌐 Connect
 
-📧 Email: [nithin172005@gmail.com](mailto:nithin172005@gmail.com)
+📧 Email: [sainithin172005@gmail.com](mailto:sainithin172005@gmail.com)
 
 🐙 GitHub: github.com/ARISTOTLE-CREATOR
 
