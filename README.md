@@ -8,7 +8,7 @@ Building digital products that combine intelligent systems, clean design, and sc
 
 ## 👋 About Me
 
-I'm a Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning.
+I'm a  Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning.
 
 I enjoy transforming ideas into production-ready software, from modern web applications and AI-powered tools to complete full-stack systems.
 
