@@ -8,14 +8,13 @@ Building digital products that combine intelligent systems, clean design, and sc
 
 ## 👋 About Me
 
-I'm a  Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning.
+I'm a  Computer Science Engineering student  specializing in Artificial Intelligence & Machine Learning.
 
 I enjoy transforming ideas into production-ready software, from modern web applications and AI-powered tools to complete full-stack systems.
 
-My focus is not just writing code—but creating solutions that solve real-world problems, improve user experiences, and deliver measurable impact.
+My focus is not just writing code—but creating solutions that solve real-world problems, improve user experiences, and deliver  measurable impact.
 
 ---
-
 ## 🚀 What You'll Find  Here
 
 This portfolio represents my journey as a developer and showcases projects, technologies, and experiences that reflect my growth in software engineering.
@@ -63,13 +62,6 @@ A modern agency-style web experience demonstrating responsive design, performanc
 * Mobile Responsive
 * Clean UI Architecture
 * Modern Frontend Practices
-
-
----
-
-## 🎓 Nova Learn
-
-An evolving student productivity ecosystem that helps learners manage courses, tasks, progress tracking, and academic growth.
 
 ---
 
